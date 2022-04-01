@@ -1,0 +1,128 @@
+{
+  "info": {
+    "fullname": "Filip Klarić",
+    "address": {
+      "street": "Gračanski ribnjak 6",
+      "city": "Zagreb",
+      "postal": "10000",
+      "telephone": [{ "name": "mobile", "number": "+385 95 199 1867" }],
+      "email": "filip.klaric@gmail.com"
+    },
+    "biography": {
+      "sections": [
+        "Highly versatile IT professional with experience in hospitality and industrial software development, testing and maintenance. Focused on building quality software solutions, with acquired deep understanding of core business and using modern software technologies.",
+        "Working on web technologies from early days of web development allowed for learning experience on technology trends and their evolution.",
+        "Experienced in teamwork and collaboration in large business environments."
+      ]
+    }
+  },
+  "skills": [
+    { "key": "Languages", "list": ["C#", "Javascript"] },
+    {
+      "key": "Backend frameworks",
+      "list": [
+        "ASP.NET Core",
+        "ASP.NET MVC",
+        "ASP.NET Forms",
+        "EF Core",
+        "Linq",
+        "WCF"
+      ]
+    },
+    {
+      "key": "Databases",
+      "list": ["MS SQL", "MySql", "PostgresSQL", "Oracle"]
+    },
+    {
+      "key": "Frontend frameworks",
+      "list": ["jQuery", "Angular", "canJS", "WPF", "Razor"]
+    },
+    { "key": "Message broker", "list": ["RabbitMQ", "MassTransit"] },
+    {
+      "key": "Hospitality IT",
+      "list": ["Infrasys", "Oracle OPERA", "Suite8", "Symphony"]
+    },
+    {
+      "key": "Development tools",
+      "list": [
+        "Visual Studio",
+        "JetBrains Rider",
+        "Git",
+        "Mercurial",
+        "Webpack"
+      ]
+    },
+    {
+      "key": "Industrial IT",
+      "list": ["MODBUS", "IEC 60780-5-101/104", "IEC 61850"]
+    }
+  ],
+  "history": [
+    {
+      "from": "2020-08-01",
+      "company": {
+        "title": "Shiji Group",
+        "subtitle": "Shiji Technologies d.o.o."
+      },
+      "role": "Senior Developer",
+      "description": "Role of senior developer in a small team. Backend business and web development.",
+      "tasks": [
+        "Development of SFE fiscal service API used for processing fiscal transactions in EMEA region",
+        "Country based projects for processing fiscal transactions",
+        "Cloud based implementation of SFE fiscal processing service"
+      ]
+    },
+    {
+      "from": "2019-07-01",
+      "to": "2020-08-01",
+      "company": {
+        "title": "Hospitality and retail systems"
+      },
+      "role": "Senior Developer",
+      "description": "Role of senior developer in a small team. Full stack web development of software solutions for hospitality and retail industry.",
+      "tasks": [
+        "Development of HRS Portal platform in ASP.NET Core framework",
+        "Database modeling and development with EF Core framework",
+        "Various other .NET solutions for interfacing with Oracle hospitality software"
+      ]
+    },
+    {
+      "from": "2009-06-01",
+      "to": "2019-07-01",
+      "company": {
+        "title": "Končar electrical engineering institute inc."
+      },
+      "role": "Software engineer",
+      "description": "Industrial software development and maintenance with emphasis on Front-End development in Web technologies. Building and maintenance of range of applications related to transformer monitoring systems",
+      "tasks": [
+        "Design and development of TMS transformer monitoring web application in SPA",
+        "Created various .NET tools for configuration and maintenance of TMS systems",
+        "Database analysis and maintenance",
+        "Deployment and personnel training for TMS systems."
+      ]
+    },
+    {
+      "from": "2007-08-01",
+      "to": "2008-08-01",
+      "company": {
+        "title": "Stinga Software d.o.o."
+      },
+      "role": "Junior developer",
+      "description": "Development of client software for investment and finance firms",
+      "tasks": [
+        "Development of client software for investment and finance firms"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "type": "college",
+      "period": {
+        "from": "2009-01-01",
+        "to": "2001-01-01"
+      },
+      "title": "Faculty of electrical engineering and computing",
+      "degree": "M.SC Telecommunication and informatics"
+    }
+  ]
+}

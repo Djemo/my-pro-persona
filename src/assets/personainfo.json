@@ -1,0 +1,15 @@
+{
+  "fullname": "Filip Klarić",
+  "street": "Gračanski ribnjak 6",
+  "city": "Zagreb",
+  "postal": "10000",
+  "telephone": [{ "name": "mobile", "number": "+385 95 199 1867" }],
+  "email": "filip.klaric@gmail.com",
+  "biography": {
+    "sections": [
+      "Highly versatile IT professional with experience in hospitality and industrial software development, testing and maintenance. Focused on building quality software solutions, with acquired deep understanding of core business and using modern software technologies.",
+      "Working on web technologies from early days of web development allowed for learning experience on technology trends and their evolution.",
+      "Experienced in teamwork and collaboration in large business environments."
+    ]
+  }
+}
